@@ -1,1 +1,2 @@
-# Sentiment-Analysis
+# Sentiment Analysis
+Twitter sentiment analysis using BERTweet.
